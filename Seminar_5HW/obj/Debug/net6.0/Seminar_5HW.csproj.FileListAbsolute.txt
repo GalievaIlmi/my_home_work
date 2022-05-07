@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\GB\C#\C#\Seminar_5HW\obj\Debug\net6.0\Seminar_5HW.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GB\C#\C#\Seminar_5HW\obj\Debug\net6.0\Seminar_5HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GB\C#\C#\Seminar_5HW\obj\Debug\net6.0\Seminar_5HW.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GB\C#\C#\Seminar_5HW\obj\Debug\net6.0\Seminar_5HW.AssemblyInfo.cs
+C:\Users\user\Desktop\GB\C#\C#\Seminar_5HW\obj\Debug\net6.0\Seminar_5HW.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GB\C#\C#\Seminar_5HW\bin\Debug\net6.0\Seminar_5HW.exe
+C:\Users\user\Desktop\GB\C#\C#\Seminar_5HW\bin\Debug\net6.0\Seminar_5HW.deps.json
+C:\Users\user\Desktop\GB\C#\C#\Seminar_5HW\bin\Debug\net6.0\Seminar_5HW.runtimeconfig.json
+C:\Users\user\Desktop\GB\C#\C#\Seminar_5HW\bin\Debug\net6.0\Seminar_5HW.dll
+C:\Users\user\Desktop\GB\C#\C#\Seminar_5HW\bin\Debug\net6.0\ref\Seminar_5HW.dll
+C:\Users\user\Desktop\GB\C#\C#\Seminar_5HW\bin\Debug\net6.0\Seminar_5HW.pdb
+C:\Users\user\Desktop\GB\C#\C#\Seminar_5HW\obj\Debug\net6.0\Seminar_5HW.dll
+C:\Users\user\Desktop\GB\C#\C#\Seminar_5HW\obj\Debug\net6.0\ref\Seminar_5HW.dll
+C:\Users\user\Desktop\GB\C#\C#\Seminar_5HW\obj\Debug\net6.0\Seminar_5HW.pdb
+C:\Users\user\Desktop\GB\C#\C#\Seminar_5HW\obj\Debug\net6.0\Seminar_5HW.genruntimeconfig.cache
